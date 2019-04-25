@@ -5,4 +5,4 @@ Data cleaning and training(R)to predict the demand.
 
 Build Deterministic Model(AMPL) to make order plan based on predict demand and start inventory.
 
-Build Stochastics Model (Python) same as Deterministic but add error terms which were generated in the training process.
+Build Stochastics Model (Python-pyomo) same as Deterministic but add error terms which were generated in the training process.
